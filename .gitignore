@@ -1,0 +1,11 @@
+# Ignore model folder
+models/
+*.keras
+
+# Ignore uploaded images
+uploadimages/
+*.jpg
+*.png
+
+# Python cache
+__pycache__/

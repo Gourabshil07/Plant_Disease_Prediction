@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Apple___Apple_scab"
+    },
+    {
+        "name": "Apple___Black_rot"   
+    },
+    {
+        "name": "Apple___Cedar_apple_rust" 
+    },
+    {
+        "name": "Apple___healthy"
+    },
+    {
+        "name": "Background_without_leaves"  
+    },
+    {
+        "name": "Blueberry___healthy"
+    },
+    {
+        "name": "Cherry___Powdery_mildew"
+    },
+    {
+        "name": "Cherry___healthy"
+    },
+    {
+        "name": "Corn___Cercospora_leaf_spot Gray_leaf_spot"
+    },
+    {
+        "name": "Corn___Common_rust"   
+    },
+    {
+        "name": "Corn___Northern_Leaf_Blight"
+    },
+    {
+        "name": "Corn___healthy" 
+    },
+    {
+        "name": "Grape___Black_rot" 
+    },
+    {
+        "name": "Grape___Esca_(Black_Measles)"
+       
+    },
+    {
+        "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)"
+       
+    },
+    {
+        "name": "Grape___healthy"
+        
+    },
+    {
+        "name": "Orange___Haunglongbing_(Citrus_greening)"
+        
+    },
+    {
+        "name": "Peach___Bacterial_spot"
+        
+    },
+    {
+        "name": "Peach___healthy"
+       
+    },
+    {
+        "name": "Pepper,_bell___Bacterial_spot"
+       
+    },
+    {
+        "name": "Pepper,_bell___healthy"
+        
+    },
+    {
+        "name": "Potato___Early_blight"
+       
+    },
+    {
+        "name": "Potato___Late_blight"
+       
+    },
+    {
+        "name": "Potato___healthy"
+       
+    },
+    {
+        "name": "Raspberry___healthy"
+        
+    },
+    {
+        "name": "Soybean___healthy"
+       
+    },
+    {
+        "name": "Squash___Powdery_mildew"
+        
+    },
+    {
+        "name": "Strawberry___Leaf_scorch"
+        
+    },
+    {
+        "name": "Strawberry___healthy"
+        
+    },
+    {
+        "name": "Tomato___Bacterial_spot"
+       
+    },
+    {
+        "name": "Tomato___Early_blight"
+       
+    },
+    {
+        "name": "Tomato___Late_blight"
+        
+    },
+    {
+        "name": "Tomato___Leaf_Mold"
+       
+    },
+    {
+        "name": "Tomato___Septoria_leaf_spot"
+        
+    },
+    {
+        "name": "Tomato___Spider_mites Two-spotted_spider_mite"
+        
+    },
+    {
+        "name": "Tomato___Target_Spot"
+        
+    },
+    {
+        "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+       
+    },
+    {
+        "name": "Tomato___Tomato_mosaic_virus"
+       
+    },
+    {
+        "name": "Tomato___healthy"
+       
+    }
+]
