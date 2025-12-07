@@ -1,2 +1,39 @@
-# Plant_disease_Prediction
-Plant leaf disease detection using a trained TensorFlow model.
+# Plant_Disease_Prediction
+
+A deep learning–based web application that detects plant leaf diseases from images.
+Built with Flask, TensorFlow/Keras, and a simple upload-based interface.
+Users can upload a leaf image and instantly get:
+
+- Disease Name
+- Cause of the disease
+- Recommended Cure / Treatment
+
+# 🚀 Features
+
+- Predicts 38+ plant leaf diseases
+
+- TensorFlow/Keras model for high accuracy
+
+- Clean and simple Flask-based UI
+
+- Displays image preview + diagnosis
+
+- Disease information loaded from JSON
+
+- Supports .jpg image uploads
+
+# Model file excluded from GitHub (download separately)
+📥 Model Download
+
+You can download the trained model file from here:
+👉 https://drive.google.com/file/d/1KB2ewrwUXBxfOSE8zWgQhP37zNfTyYOZ/view?usp=drive_link
+
+# 🧠 Tech Stack
+
+- Backend: Python, Flask
+
+- ML Framework: TensorFlow / Keras
+
+- Frontend: HTML, CSS
+
+- Data Format: JSON
