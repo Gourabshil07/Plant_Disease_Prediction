@@ -39,8 +39,10 @@ def model_predict(image):
     # Extract name from JSON
     data = plant_disease[index]
     name = data["name"]
+    cause = data["cause"] 
+    cure = data["cure"]
 
-    return name
+    return name, cause, cure
 
 
 @app.route('/upload/', methods=['POST', 'GET'])
@@ -53,13 +55,15 @@ def uploadimage():
         image.save(save_path)
 
         # Get prediction details
-        name = model_predict(save_path)
+        name,cause,cure = model_predict(save_path)
 
         return render_template(
             'home.html',
             result=True,
             imagepath=f"/uploadimages/{filename}",
             name=name,
+            cause=cause,
+            cure=cure
         )
 
     return redirect('/')
